@@ -43,7 +43,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<ChenWeiLin567>/data-science-project.git
+git clone https://github.com/ChenWeiLin567/data-science-project.git
 cd data-science-project
 
 # 2. 安装依赖（建议使用虚拟环境）
